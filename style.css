@@ -1,0 +1,29 @@
+body{
+    font-family: 'Akaya Telivigala', cursiva;
+    background: #5d5e91;
+}
+.header_div{
+    background:#afeef3 ;
+    color: white;
+}
+.header_div p{
+    font-family: 'Roboto', sem serifa;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Roboto', sem serifa;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footr{
+    position: fixed;
+    color: "#66c757d";
+    botton:"0";
+    width: 100%;
+    font-size: 18px;
+    background-color: "#";
+}
